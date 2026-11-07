@@ -35,6 +35,10 @@ To only build, without installing, run `./build.sh`. The app is written to `buil
 
 Then remove WheelFlipper from the Accessibility list, and optionally delete the "WheelFlipper Local Signing" certificate in Keychain Access.
 
+## Disclaimer
+
+This app is vibe-coded (I mean, what isn't these days?).
+
 ## License
 
 [MIT](LICENSE)
