@@ -72,3 +72,7 @@ the "WheelFlipper Local Signing" certificate in Keychain Access.
 - **Logs** are written to `/tmp/wheelflipper.log`.
 - **Quit** from the menu stops it until the next login. To start it again:
   `launchctl kickstart gui/$(id -u)/io.github.mizosoft.wheelflipper`.
+
+## License
+
+[MIT](LICENSE)
